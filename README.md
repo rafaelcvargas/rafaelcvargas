@@ -9,7 +9,7 @@ Desenvolvedor de Software Pleno
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelcvargas)](https://github.com/anuraghazra/github-readme-stats)
 
-## :face_with_monocle: Sobre mim
+## :monocle_face: Sobre mim
 Desenvolvedor de software que gosta do que faz e compartilhar conhecimentos com as pessoas.
 
 ## :zap: Tecnologias
