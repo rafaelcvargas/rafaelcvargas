@@ -1,4 +1,4 @@
-### Hi there :wave:
+### Olá :wave:
 [![Linkedin Badge](https://img.shields.io/badge/-rafael&#8208;cvargas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-cvargas/)](https://www.linkedin.com/in/rafael-cvargas/)
 [![Gmail Badge](https://img.shields.io/badge/-rafaelvargas2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelvargas2@gmail.com)](mailto:rafaelvargas2@gmail.com)
 
@@ -23,8 +23,8 @@ Tenho conhecimentos com
 - Metodologia Ágeis
 
 ## :mailbox: Meus Contatos
-- LinkedIn - [Here](https://www.linkedin.com/in/rafael-cvargas/)
-- Gmail - [Here](mailto:rafaelvargas2@gmail.com)
+- LinkedIn - [Aqui](https://www.linkedin.com/in/rafael-cvargas/)
+- Gmail - [Aqui](mailto:rafaelvargas2@gmail.com)
 
 
 ---
