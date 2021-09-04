@@ -25,7 +25,7 @@ Tenho conhecimentos com
 ## :mailbox: Meus Contatos
 - LinkedIn - [Aqui](https://www.linkedin.com/in/rafael-cvargas/)
 - Gmail - [Aqui](mailto:rafaelvargas2@gmail.com)
-
+ 
 
 ---
 ⭐️ From [gc-codes](https://github.com/gc-codes)
