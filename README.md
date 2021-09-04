@@ -15,7 +15,7 @@ Desenvolvedor de software que gosta do que faz e compartilhar conhecimentos com 
 ## :zap: Tecnologias
 Tenho conhecimentos com 
 - Desenvolvimento Front-end com Angular 2+, HTML, CSS, Javascript e Typescript
-- Desenvolvimento Backend com ASP.NET Core, ASP.NET Framework e Node.js
+- Desenvolvimento Backend com .NET Core, .NET Framework
 - Banco de dados relacionais com Oracle, MySQL, SQL Server e PostGreSQL
 - Banco de dados não relacional com Elastic Search
 - Mensageria com RabbitMQ
