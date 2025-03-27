@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-rafaelvargas2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelvargas2@gmail.com)](mailto:rafaelvargas2@gmail.com)
 
 # Rafael Caldeira Vargas :smiley:
-Desenvolvedor de Software Pleno
+Desenvolvedor de Software Sênior
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rafaelcvargas&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
